@@ -1,0 +1,24 @@
+{
+  "name": "apps",
+  "version": "1.0.0",
+  "description": "Apps service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jomariya23156/face-recognition-with-liveness-web-login.git"
+  },
+  "author": "Lestari Can s.Kom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jomariya23156/face-recognition-with-liveness-web-login/issues"
+  },
+  "homepage": "https://github.com/jomariya23156/face-recognition-with-liveness-web-login#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.18.1",
+    "python-shell": "^3.0.1"
+  }
+}
